@@ -11,8 +11,8 @@ namespace prueba2
         static void Main(string[] args)
         {
             Ordenamiento();
-            // FormatearNumeros();
-            // GenerarAleatorios();
+            FormatearNumeros();
+            GenerarAleatorios();
         }
 
         /*3.1.- En base al siguiente listado:
